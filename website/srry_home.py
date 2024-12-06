@@ -1,3 +1,7 @@
+git add requirements.txt
+git commit -m "Add streamlit-extras to requirements"
+git push
+
 import streamlit as st
 from streamlit_extras.switch_page_button import switch_page
 
