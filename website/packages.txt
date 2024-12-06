@@ -1,2 +1,3 @@
-streamlit
-streamlit_extras
+git add requirements.txt
+git commit -m "Add streamlit-extras to requirements"
+git push
